@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+   <file>bad.svg</file>
+   <file>heart.svg</file>
+   <file>trash.svg</file>
+   <file>Chrome.png</file>
+   <file>help.png</file> 
+</qresource>
+</RCC>
